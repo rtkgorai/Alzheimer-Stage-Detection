@@ -1,1 +1,3 @@
 This directory contains User Interface of Alzheimer's Stage Detection using html,css and js
+
+(By typing Flask run in command prompt then paste the url which will be generated in browser then Interface will open then give a picture then the model will predict the stage of Alzheimer disease)
