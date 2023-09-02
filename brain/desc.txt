@@ -1,1 +1,1 @@
-
+This directory contains User Interface of Alzheimer's Stage Detection using html,css and js
